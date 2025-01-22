@@ -10,3 +10,4 @@ spring.jpa.show-sql=true
 #Used to show sql queris in console
 
 server.port=server_port_no #default is 8080
+#
