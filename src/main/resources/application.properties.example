@@ -1,0 +1,12 @@
+spring.application.name=DB-Crud-test
+spring.datasource.url=mysql_jdbc_url
+#example :- jdbc:mysql://localhost:3306/studentdb
+
+spring.datasource.username=your_username_of_mysql
+spring.datasource.password=your_password_of_mysql
+spring.jpa.hibernate.ddl-auto=update
+
+spring.jpa.show-sql=true 
+#Used to show sql queris in console
+
+server.port=server_port_no #default is 8080
